@@ -1,4 +1,8 @@
 # -*- coding:UTF-8 -*-
+
+'''
+装饰器基本用法
+'''
 from functools import wraps
 import time
 def runtime(func):
